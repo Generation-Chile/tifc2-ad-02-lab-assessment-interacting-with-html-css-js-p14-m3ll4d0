@@ -2,4 +2,14 @@ html {
     height: 100%;
     width: 100%;
   }
-  
+h1 {
+  color: green;
+}  
+/*selector de clase es con punto "."*/
+.blue{
+  color: blue;
+}
+/* el ID se selecciona con gato "#" */
+#red{
+  color: red;
+}
